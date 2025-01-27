@@ -1,34 +1,31 @@
-**Simon Game 🎮**
+# 🎮 Simon Game
 
-A fun and interactive Simon Game built using HTML, CSS, and JavaScript. The game challenges players to repeat increasingly complex sequences of colors and sounds. It’s a memory game where the sequence of lights and sounds gets longer each time you correctly repeat it. Can you remember the pattern and beat the game?
+A fun and interactive **Simon Game** built using **HTML**, **CSS**, and **JavaScript** with sound effects to enhance the gaming experience. Test your memory and see how far you can go!
 
-**Features**
+## 🌟 Features
+- Dynamic button sequences to test your memory skills.
+- Sound effects for each button and game state.
+- Easy-to-use interface and responsive design.
+- Game rules available for a quick guide.
 
-🟠 Color buttons: Four colored buttons (red, yellow, green, blue) that light up in a sequence.
+## 🚀 Live Demo
+Check out the live version here: [Simon Game Live](https://purvarawale.github.io/Simon-game/)  
 
-🔊 Sound effects: Each button plays a unique sound when pressed, and the sequence is accompanied by corresponding audio.
+## 🛠️ Technologies Used
+- **HTML**: Structure of the game.
+- **CSS**: Styling for an engaging user experience.
+- **JavaScript**: Logic and interactivity of the game.
 
-🕹️ Game progression: The sequence of colors increases in length after each successful round.
+## 🎮 How to Play
+1. Press any key to start the game.
+2. Memorize the sequence of button flashes and sounds.
+3. Repeat the sequence in the correct order.
+4. As you progress, the sequence becomes longer.  
+   *Miss a step, and the game is over!*
 
-🚀 Play & Restart functionality: Start and restart the game at any time, with sound effects for each action.
+## 📜 Game Rules
+The rules are simple:
+- Follow the sequence of colors shown.
+- Each color corresponds to a sound.
+- Test your memory and see how many sequences you can remember!
 
-💻 Responsive design: The game is fully responsive, providing an engaging experience across devices.
-
-**Technologies Used**
-
-HTML5: For structuring the game layout.
-
-CSS3: For styling the game’s interface, including buttons and overall design.
-
-JavaScript: For implementing game logic, including the sequence and player input handling.
-
-Audio: Custom sound effects for game actions.
-
-**How to Play**
-1)Press any key to start the game.
-
-2)Watch and listen to the color sequence.
-
-3)Repeat the sequence by clicking the corresponding colored buttons.
-
-4)If you get the sequence right, it will get longer. If you make a mistake, the game will end, and you can try again.
